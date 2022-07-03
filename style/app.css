@@ -1,0 +1,17 @@
+body {
+  background: #f8e8a6;
+  text-align: center;
+}
+p {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+a {
+  margin: 20px;
+}
+footer {
+  margin: 20px;
+}
+.mail-link {
+  margin: 0 auto;
+}
